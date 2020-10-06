@@ -1,7 +1,8 @@
 # DMU Hackers VM Setup Guide
 
-Username: **root**
+[Click here to Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view)
 
+Username: **root**
 Password: **dmuhackers**
 
 Kali Linux is a Linux distribution designed for penetration testing and digital forensics, it contains over 600 tools commonly used within the security field. As a society we have created a virtual machine with our own modified Kali Linux install, containing tools that we regularly use and recommend. This should be especially useful for use with remote sessions as if everyone is working from the same VM setup, it should be easier to provide remote assistance. 
@@ -20,7 +21,7 @@ Be sure to hang on to the **serial number** provided when you hit 'add to cart',
 
 ## 2 - VM Download
 
-Download the latest version of the virtual machine from ADD LINK and extract the **.ova** file to a suitable location.
+[Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view) the latest version of the virtual machine and extract the **.ova** file to a suitable location.
 
 ## 3 - Importing the VM
 
