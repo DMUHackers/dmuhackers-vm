@@ -1,6 +1,7 @@
 # DMU Hackers VM Setup Guide
 
 Username: **root**
+
 Password: **dmuhackers**
 
 Kali Linux is a Linux distribution designed for penetration testing and digital forensics, it contains over 600 tools commonly used within the security field. As a society we have created a virtual machine with our own modified Kali Linux install, containing tools that we regularly use and recommend. This should be especially useful for use with remote sessions as if everyone is working from the same VM setup, it should be easier to provide remote assistance. 
