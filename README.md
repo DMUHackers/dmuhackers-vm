@@ -1,6 +1,8 @@
 # DMU Hackers VM Setup Guide
 
-[Click here to Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view)
+[Direct Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view) (Limited)
+
+[Torrent Download](https://github.com/DMUHackers/dmuhackers-vm/raw/master/DMUHackersKali2020_3.zip.torrent)
 
 Username: **root**
 Password: **dmuhackers**
