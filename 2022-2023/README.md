@@ -2,9 +2,9 @@
 
 [Direct Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view) (Limited)
 
-[Torrent Download](https://github.com/DMUHackers/dmuhackers-vm/2022-2023/raw/master/DMU-Hackers-x86-x64.ova.torrent)
+[Torrent Download](https://raw.githubusercontent.com/DMUHackers/dmuhackers-vm/master/2022-2023/DMU-Hackers-x86-x64.ova.torrent)
 
-[UTM Download](https://github.com/DMUHackers/dmuhackers-vm/2022-2023/raw/master/DMU-Hackers.utm.7z.torrent) (Torrent Only)
+[UTM Download](https://raw.githubusercontent.com/DMUHackers/dmuhackers-vm/master/2022-2023/DMU-Hackers.utm.7z.torrent) (Torrent Only)
 
 Username: **kali**<br>
 Password: **kali**<br>
@@ -42,7 +42,7 @@ Congratulations! You've just set up your own DMU Hackers Kali Linux VM, and if a
 
 ## 2 - VM Download
 
-To run the VM natively on arm64 instructions you will need the [UTM Native Version](https://github.com/DMUHackers/dmuhackers-vm/2022-2023/raw/master/DMU-Hackers.utm.7z.torrent).
+To run the VM natively on arm64 instructions you will need the [UTM Native Version](https://raw.githubusercontent.com/DMUHackers/dmuhackers-vm/master/2022-2023/DMU-Hackers.utm.7z.torrent).
 
 ## 3 - Using the VM
 Start the VM. You should be presented with a login screen, log in with the username **kali** and the password **kali**.
