@@ -1,6 +1,6 @@
 # DMU Hackers VM Setup Guide
 
-[Direct Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view) (Limited)
+[Direct Download](https://drive.google.com/file/d/1nx5BJFs4GlcJLj9nXmyRAokfyq4UJJ13/view) (Limited)
 
 [Torrent Download](https://raw.githubusercontent.com/DMUHackers/dmuhackers-vm/master/2022-2023/DMU-Hackers-x86-x64.ova.torrent)
 
@@ -17,7 +17,7 @@ Kali Linux is a Linux distribution designed for penetration testing and digital 
 
 ## 2 - VM Download
 
-[Download](https://drive.google.com/file/d/1o-y_EzPeYCUBMiLdau8EvwJYzC9xrXHl/view) the latest version of the virtual machine and extract the **.ova** file to a suitable location.
+[Download](https://drive.google.com/file/d/1nx5BJFs4GlcJLj9nXmyRAokfyq4UJJ13/view) the latest version of the virtual machine and extract the **.ova** file to a suitable location.
 
 ## 3 - Importing the VM
 
